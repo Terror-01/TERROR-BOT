@@ -1,26 +1,26 @@
-<h1 align="center"> QUEEN NYX BOT </h1>
+<h1 align="center"> TERROR BOT </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN-NYX-BOT;WHATSAPP+NORMAL+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+12.03.25" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;TERROR-BOT;WHATSAPP+NORMAL+BOT;CREATED+BY+TERROR+AYOMIDE;RELEASED+12.03.25" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
   <a href="https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s">
     <img alt="wasi" height="300" src="https://files.catbox.moe/kp8w9p.jpeg">
-    <h1 align="center">QUEEN-NYX-BOT</h1>
+    <h1 align="center">TERROR-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2349159895444"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/terror-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2349159895444"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
-**Queen Nyx - The Ultimate AI-Powered WhatsApp Bot 👑✨**
+**TERROR BOT - The Ultimate AI-Powered WhatsApp Bot 👑✨**
 
-Meet Queen Nyx, your all-in-one WhatsApp assistant, designed to bring intelligence, automation, and fun to your chats! 🚀 Whether you need quick replies, advanced moderation, or entertaining features, Queen Nyx has you covered. With a sleek design, powerful commands, and AI-driven responses, this bot is your perfect digital companion.
+Meet TERROR BOT, your all-in-one WhatsApp assistant, designed to bring intelligence, automation, and fun to your chats! 🚀 Whether you need quick replies, advanced moderation, or entertaining features, Queen Nyx has you covered. With a sleek design, powerful commands, and AI-driven responses, this bot is your perfect digital companion.
 
 ⚡ Features:
 ✅ Smart Auto-Responses
@@ -29,8 +29,8 @@ Meet Queen Nyx, your all-in-one WhatsApp assistant, designed to bring intelligen
 ✅ Customizable Features
 ✅ Fast & Reliable Performance
 
-Rule your WhatsApp world with Queen Nyx—because every chat deserves a royal touch! 👑🤖
-©PREXZYVILLA
+Rule your WhatsApp world with TERROR BOT—because every chat deserves a royal touch! 👑🤖
+©TERROR
 
 ### 1. STAR THIS REPO
 [![Star on GitHub](https://img.shields.io/badge/⭐%20Star%20on%20GitHub-blue?style=for-the-badge)](https://github.com/Prexzybooster/QUEEN-NYX-BOT)
